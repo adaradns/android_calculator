@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="etiqueta_1">00000000000000000000</string>
+    <string name="limpiar">C</string>
+</resources>
